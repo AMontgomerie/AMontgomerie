@@ -14,4 +14,4 @@
 ## Demos
 
 * [Check the CEFR level of a text with this Streamlit app](https://share.streamlit.io/amontgomerie/cefr-english-level-predictor/main/CEFR_Predictor.py)
-* [Try generating some Q&A with Qusestion Generator in this Google Colab notebook](https://colab.research.google.com/drive/1PLjfxhXsi_Di761LELAonDZJSTrG9C8U?usp=sharing)
+* [Try generating some Q&A with Question Generator in this Google Colab notebook](https://colab.research.google.com/drive/1PLjfxhXsi_Di761LELAonDZJSTrG9C8U?usp=sharing)
