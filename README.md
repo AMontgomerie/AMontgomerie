@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AMontgomerie_)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/amontgomerie)
 
-:computer: I'm currently working at Malvern Panalytical as a Data Engineer.
+:computer: I'm currently working as an ML Engineer.
 
 :writing_hand: [I have a blog](https://amontgomerie.github.io/) where I write about my ML projects.
 
