@@ -9,7 +9,7 @@
 
 :writing_hand: [I have a blog](https://amontgomerie.github.io/) where I write about my ML projects.
 
-:robot: I sometimes compete in [Kaggle competitions](https://www.kaggle.com/amontgomerie), where I'm a Competitions Master. :1st_place_medal::2nd_place_medal::2nd_place_medal::2nd_place_medal:
+:robot: I sometimes compete in [Kaggle competitions](https://www.kaggle.com/amontgomerie), where I'm a Competitions Master. :1st_place_medal::1st_place_medal::2nd_place_medal::2nd_place_medal::2nd_place_medal:
 
 ## Demos
 
